@@ -47,6 +47,8 @@ and:
         compile 'com.github.aprofromindia:android-mvvm:{latest-version}'
     }
 
+Latest Version - ![Release](https://jitpack.io/v/aprofromindia/android-mvvm.svg)
+
 Note: do not add the jitpack.io repository under `buildscript`.
 
 ##Licenses
